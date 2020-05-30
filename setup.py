@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='fh_ac_ai_gym',
+setup(name='fhacaigym',
       version='0.0.1',
       install_requires=['gym','numpy']
       )

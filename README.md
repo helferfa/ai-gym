@@ -16,7 +16,7 @@ pip install -e .
 
 ```
 import gym
-import fh_ac_ai_gym
+import fhacaigym
 
 wumpus_env = gym.make('Wumpus-v0')
 cartpole_env = gym.make('Fuzzy-CartPole-v0')
